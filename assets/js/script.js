@@ -79,11 +79,14 @@ var charLength = characterLength();
       
          types[i] = input;
          console.log(types[i]);
-         
+
       
   
     }
   // finally generate password and return it 
+  // randomly choose how many character types to use 
+  
+
   
 }
 

@@ -10,5 +10,7 @@ the algorithm will then display a password matching the criteria.
 
 [link](https://samuel408.github.io/password-generator/)
 
+[screenshot of program](images/password-gen.jpg)
+
 
 
